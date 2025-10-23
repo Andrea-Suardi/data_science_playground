@@ -47,10 +47,6 @@ A few lines reflecting on what you learned during the project:
 - What tools you practiced
 - Any challenges and how you solved them
 
-## 🪪 License
-
-This project is licensed under the [MIT License](LICENSE).
-
 
 
 
