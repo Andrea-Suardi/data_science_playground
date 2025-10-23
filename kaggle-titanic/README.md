@@ -2,7 +2,7 @@
 
 ## 📌 Project Objective
 
-Build a predictive model that answers the question: "what sorts of people were more likely to survive the Titanic sinking?"
+Build a predictive model that answers the question: "what sorts of people were more likely to survive the Titanic sinking?".
 You can find more details of this competition here: https://www.kaggle.com/competitions/titanic/overview
 ## 🧰 Tools & Technologies
 
