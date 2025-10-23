@@ -1,21 +1,13 @@
-# Project Title
-
-A short description of the project — 1–2 sentences explaining what it's about.
+# Titanic Kaggle Competition
 
 ## 📌 Project Objective
 
-Explain what you were trying to achieve. For example:
-- Explore trends in [dataset]
-- Practice Python and data visualization
-- Find insights about [topic]
-
+Build a predictive model that answers the question: "what sorts of people were more likely to survive the Titanic sinking?"
+You can find more details of this competition here: https://www.kaggle.com/competitions/titanic/overview
 ## 🧰 Tools & Technologies
 
-List the main tools you used:
-- Python (pandas, matplotlib, seaborn, etc.)
+- Python ()
 - Jupyter Notebook
-- SQL (if used)
-- Git, GitHub
 
 ## 📊 Dataset
 
